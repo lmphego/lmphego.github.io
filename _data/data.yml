@@ -53,7 +53,6 @@ career-profile:
         your office which will help me sharpen my skills and to learn more in the legal field. I am
         a dedicated team player who is ambitious and hard-working. I believe that I will make a
         valuable asset to your office.
-        
         Some of my non-technical skills include:
         - Identifying and formulating problems.
         - Good Communication skills and computer skills.
@@ -160,5 +159,6 @@ skills:
       # - name: Sketch & Photoshop
       #   level: 60%
 
-#footer: >
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    [Click here to download my PDF Resume.]({{ "/assets/My Resume.pdf" | absolute_url }})
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
