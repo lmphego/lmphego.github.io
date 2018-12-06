@@ -160,8 +160,4 @@ skills:
       #   level: 60%
 
 footer: >
-<div markdown="1">
-   [Click here to download my PDF Resume.]({{ "/assets/My Resume.pdf" | absolute_url }})
-</div>
-    
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
